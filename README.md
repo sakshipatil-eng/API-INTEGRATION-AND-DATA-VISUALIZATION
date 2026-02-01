@@ -86,4 +86,7 @@ city_nm = "Kolhapur"
 ## 📜 License
 This project is open-source and available for educational purposes.
 
+## Output
+ <img width="789" height="671" alt="Image" src="https://github.com/user-attachments/assets/ac1bb519-d3cb-4362-bfb8-32216c7d6fef" />
+
 
