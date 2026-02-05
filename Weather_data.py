@@ -4,7 +4,7 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 
 city_nm = "Kolhapur"
-API_KEY = "5eadded0ab4d3663431dc09d33e63ea8"
+API_KEY = "" # Api key required to run code
 
 url = f"https://api.openweathermap.org/data/2.5/weather?q={city_nm}&appid={API_KEY}&units=metric"
 
@@ -39,3 +39,4 @@ if response.status_code == 200:
 else:
     print("Failed to fetch weather data")
     print(response.json())
+
