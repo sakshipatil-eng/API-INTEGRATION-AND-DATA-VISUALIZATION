@@ -1,15 +1,5 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
 
-  COMPANY NAME:CODTECH IT SOLUTIONS
-  
-  NAME: SAKSHI E. PATIL
-  
-  INTERN ID:CTIS2517
-  
-  DURATION: 4 WEEKS
-  
-  MENTOR: NEELA SANTOSH KUMAR
-
 # 🌦️ Weather Visualization App (Python)
 
 This is a simple Python application that fetches **real-time weather data** for a given city using the **OpenWeatherMap API** and visualizes key weather parameters using **Matplotlib**.
